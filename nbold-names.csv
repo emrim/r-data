@@ -1,0 +1,88 @@
+1,Left Caudate,l-caud
+2,Cingulate Gyrus anterior division-L,L-cinga
+3,Frontal Medial Cortex-L,L-fmedc
+4,Left Operculum,l-operc
+5,Frontal Orbital Cortex-L,L-forbc
+6,Frontal Pole-L,L-front
+7,Inferior Frontal Gyrus pars opercularis-L,l-inffrontgop
+8,Inferior Frontal Gyrus pars triangularis-L,l-inffrontgtri
+9,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)-L,l-juxlob
+10,Middle Frontal Gyrus-L,l-mfg
+11,Paracingulate Gyrus-L,l-parcing
+12,Pre-frontal-L,L-prefront
+13,Subcallosal Cortex-L,-subcall
+14,Superior Frontal Gyrus-L,l-sfg
+15,Insular Cortex-L,l-ins
+16,Cuneal Cortex-L,l-cun
+17,Left Calcarine Cortex,l-calc
+18,Lateral Occipital Cortex inferior division-L,l-latocinf
+19,Lingual Gyrus-L,L-ling
+20,Occipital Fusiform Gyrus-L,L-occfus
+21,Occipital Pole-L,L-occp
+22,Angular Gyrus-L,L-ang
+23,Cingulate Gyrus posterior division-L,L-cingpost
+24,Lateral Occipital Cortex superior division-L,L-latoccsup
+25,Postcentral Gyrus-L,L-postcent
+26,Precuneous Cortex-L,L-precun
+27,Superior Parietal Lobule-L,L-supparl
+28,Supramarginal Gyrus anterior division-L,L-supmargga
+29,Supramarginal Gyrus posterior division-L,L-supmarggp
+30,Left Lentiform,l-lent
+31,Left Superior Temporal Gyrus,l-stg
+32,Left Inferior Temporal Gyrus,l-itg
+33,Inferior Temporal Gyrus temporooccipital part-L,l-itgtempoc
+34,Left Amygdala-R,l-amig
+35,Left Hippocampus-R,l-hip
+36,Middle Temporal Gyrus anterior division-L,l-mtgant
+37,Middle Temporal Gyrus posterior division-L,l-mtgpost
+38,Middle Temporal Gyrus temporooccipital part-L,l-mtgtempoc
+39,Left Parahippocampal Gyrus,l-parhipc
+40,Left Planum,l-plan
+41,Left Temporal Fusiform Cortex,l-tfus
+42,Temporal Occipital Fusiform Cortex,l-tofus
+43,Temporal Pole,l-tempp
+44,Left Thalamus,l-thal
+45,Right Caudate,l-caud
+46,Cingulate Gyrus anterior division-R,r-cinga
+47,Frontal Medial Cortex-R,r-fmedc
+48,Right Operculum,r-operc
+49,Frontal Orbital Cortex-R,r-forbc
+50,Frontal Pole-R,r-front
+51,Inferior Frontal Gyrus pars opercularis-R,r-inffrontgop
+52,Inferior Frontal Gyrus pars triangularis-R,r-inffrontgtri
+53,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)-R,r-juxlob
+54,Middle Frontal Gyrus-R,r-mfg
+55,Paracingulate Gyrus-R,r-parcing
+56,Pre-frontal-R,r-prefront
+57,Subcallosal Cortex-R,r-subcall
+58,Superior Frontal Gyrus-R,r-sfg
+59,Insular Cortex-R,r-ins
+60,Cuneal Cortex-R,r-cun
+61,Right Calcarine Cortex,r-calc
+62,Lateral Occipital Cortex inferior division-R,r-latocinf
+63,Lingual Gyrus-R,r-ling
+64,Occipital Fusiform Gyrus,r-occfus
+65,Occipital Pole,r-occp
+66,Angular Gyrus,r-ang
+67,Cingulate Gyrus posterior division,r-cingpost
+68,Lateral Occipital Cortex superior division,r-latoccsup
+69,Postcentral Gyrus,r-postcent
+70,Precuneous Cortex-R,r-precun
+71,Superior Parietal Lobule,r-supparl
+72,Supramarginal Gyrus anterior division,r-smargant
+73,Supramarginal Gyrus posterior division,r-smargpost
+74,Right Lentiform,r-lent
+75,Right Superior Temporal Gyrus,r-stg
+76,Right Inferior Temporal Gyrus,r-itg
+77,Inferior Temporal Gyrus temporooccipital part,r-itgtempoc
+78,Middle Temporal Gyrus anterior division,r-mtgant
+79,Middle Temporal Gyrus posterior division,r-mtgpost
+80,Middle Temporal Gyrus temporooccipital part,r-mtgtempoc
+81,Right Parahippocampal Gyrus,r-parhipc
+82,Right Planum,r-plan
+83,Right Amygdala,r-amig
+84,Right Hippocampus,r-hip
+85,Right Temporal Fusiform Cortex,r-tfus
+86,Temporal Occipital Fusiform Cortex,r-tofus
+87,Temporal Pole,r-tempp
+88,Right Thalamus,r-thal
